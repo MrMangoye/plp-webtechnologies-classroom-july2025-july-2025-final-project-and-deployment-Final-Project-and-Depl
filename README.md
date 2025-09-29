@@ -88,3 +88,29 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+# Benjamin Mangoye – Portfolio Website
+
+## 🌐 Live Site
+[Visit Website](https://your-username.github.io/your-repo-name/)
+
+## 📌 Project Overview
+This is a responsive multipage portfolio website built using HTML5, CSS3, and JavaScript. It showcases my skills, services, and past work, and includes a contact form for inquiries.
+
+## 📁 Pages Included
+- Home
+- About
+- Services
+- Gallery
+- Contact
+
+## 🛠️ Technologies Used
+- HTML5 for semantic structure
+- CSS3 for styling and responsive layout
+- JavaScript for interactivity and form validation
+
+## 🚀 Deployment
+Hosted on GitHub Pages
+
+## 👤 Author
+Benjamin Mangoye
